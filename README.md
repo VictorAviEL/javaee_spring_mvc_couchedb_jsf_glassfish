@@ -1,0 +1,2 @@
+# javaee_spring_mvc_couchedb_jsf_glassfish
+recipe java_ee_spring_mvc_couchedb_jsf_glassfish
